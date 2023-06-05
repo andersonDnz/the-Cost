@@ -19,7 +19,7 @@ function Navbar() {
           </li>
 
           <li className={styles.item}>
-            <Link to="/NewProject">Projetos</Link>
+            <Link to="/Projects">Projetos</Link>
           </li>
 
           <li className={styles.item}>
