@@ -17,7 +17,7 @@ function Footer() {
         </li>
       </ul>
       <p className={styles.copy_right_span}>
-        <span>Costs</span>&copy; 2022
+        <span>Costs</span>2023
       </p>
     </footer>
   );
