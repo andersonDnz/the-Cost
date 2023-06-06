@@ -15,7 +15,7 @@ O Costs permite gerenciar seus projetos, definindo budget, valor total do projet
 
 ### Criando Projetos:
 <h1>
-  <img src="./assets/CreateProject.png">  
+  <img src="./assets/createProject.png">  
 </h1>
 
 ### Projetos:
