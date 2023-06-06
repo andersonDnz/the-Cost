@@ -31,5 +31,8 @@ O Costs permite gerenciar seus projetos, definindo budget, valor total do projet
 ## Ferramentas 
 
 - [node.js](https://nodejs.org/en)
-- [React](https://react.dev/)
-- [JSON Server](https://www.npmjs.com/package/json-server)
+- [React.js](https://react.dev/)
+- [React-router-dom](https://beta.reactrouter.com/en/main/start/overview) ( Para criação de rotas)
+- [React Hooks](https://react.dev/reference/react) (useState e useEffect)
+- [Json-Server](https://www.npmjs.com/package/json-server)
+
