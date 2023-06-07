@@ -3,39 +3,39 @@
   <p>Cost</p>
 </h1>
 
-## Sobre
+## About
 
- O **Cost** é um gerenciador de Projetos feito com React.js (em andamento)
-O Costs permite gerenciar seus projetos, definindo budget, valor total do projeto, alocando serviços de acordo com o valor do orçamento, controlando gastos.
+**Cost** is a Project Manager made with React.js (in progress)
+Costs allows you to manage your projects, defining budget, total project value, allocating services according to the budget value, controlling expenses.
 ### Home:
 <h1> 
   <img src="./assets/home.png">
 </h1>
 
 
-### Criando Projetos:
+### Creating Project:
 <h1>
   <img src="./assets/createProject.png">  
 </h1>
 
-### Projetos:
+### Projects:
 <h1>
   <img src="./assets/projetos.png">  
 </h1>
 
-### Edite seus Projetos:
+### Edit your Projcts:
 <h1>
   <img src="./assets/edit.png">  
 </h1>
 
-## Ferramentas 
+## Tools
 
 - [node.js](https://nodejs.org/en)
 - [React.js](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 
 
-## Dependências
+## Dependencies
 
 - [React-router-dom](https://beta.reactrouter.com/en/main/start/overview)
 - [React Hooks](https://react.dev/reference/react) (useState e useEffect)
