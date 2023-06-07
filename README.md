@@ -32,7 +32,12 @@ O Costs permite gerenciar seus projetos, definindo budget, valor total do projet
 
 - [node.js](https://nodejs.org/en)
 - [React.js](https://react.dev/)
-- [React-router-dom](https://beta.reactrouter.com/en/main/start/overview) ( Para criação de rotas)
-- [React Hooks](https://react.dev/reference/react) (useState e useEffect)
-- [Json-Server](https://www.npmjs.com/package/json-server)
+- [Vite](https://vitejs.dev/)
 
+
+## Dependências
+
+- [React-router-dom](https://beta.reactrouter.com/en/main/start/overview)
+- [React Hooks](https://react.dev/reference/react) (useState e useEffect)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [Json-Server](https://www.npmjs.com/package/json-server)
