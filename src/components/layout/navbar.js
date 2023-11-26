@@ -2,8 +2,10 @@ import { Link } from "react-router-dom";
 
 import Container from "./Container";
 
-import styles from "./Navbar.module.css";
+
 import img from "../../img/logo.png";
+
+import styles from "./Navbar.module.css";
 
 function Navbar() {
   return (
